@@ -28,6 +28,10 @@ A fast, keyboard-driven tab overview for your browser. Find, manage, and switch 
 
 ___
 
+<img width="1438" height="893" alt="Mosaic carousel mode" src="https://github.com/user-attachments/assets/a667454d-9bdf-40ee-a112-47139864f4db" />
+
+___
+
 https://github.com/user-attachments/assets/08a8f47d-d7fe-4076-a6d6-1242ffcd1721
 
 ## ⌨️ Shortcuts
